@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-agdja0.salamcuan.sbs/sitemap.xml
